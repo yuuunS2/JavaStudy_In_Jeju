@@ -1,7 +1,7 @@
 # JavaStudy_In_Jeju
 #### 제주창조경제혁신센터 &amp; Oracle &amp; 영우디지털 에서 진행하는 Java 심화 교육 과정
 
-![Java한잔](/Users/yunhee/Downloads/JAVA 한잔/java.jpg)
+![Java한잔](http://jccei.kr/files/osservc/source/0d836690-640b-418d-b6fe-c38bbd86b17b.jpg)
 
 - 교육 기간 : 2019년 7월 15일 ~ 2019년 8월 10일 (총 4주간, 140시간 이상)
 - 장소 : 제주창조경제혁신센터
